@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  key: MyString
+  chord: MyString
+  instrument: MyString
+  band: MyString
+  album: MyString
+  genre: MyString
+  mambo_no_5: MyString
+  likes: 1
+
+two:
+  key: MyString
+  chord: MyString
+  instrument: MyString
+  band: MyString
+  album: MyString
+  genre: MyString
+  mambo_no_5: MyString
+  likes: 1
